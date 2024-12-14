@@ -1,3 +1,9 @@
-# Brickwall-Task
+# Brick Wall Shooting Game 
 
-C# script for building a shoot wall brick game
+
+## Tech stacks💻
+- Unity
+- C#
+
+## [Demo▶️](https://youtu.be/FhHddqXZUsI)
+
